@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align="center">
+<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200"/>
 
-<!--
-**DimitrisPetrakis/DimitrisPetrakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<a href="https://www.linkedin.com/dimitrispetrakis" target="_blank">
+<img src="https://media.licdn.com/dms/image/C5612AQHvzL-_J1rRWg/article-cover_image-shrink_600_2000/0/1614895141102?e=2147483647&v=beta&t=61j64lYBEW2Lu2J0FC6oqxfHhlPcXdgRtB--3klMdqE"width="150px" />
+</a>
 
-Here are some ideas to get you started:
+</div>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://komarev.com/ghpvc/?username=DimitrisPetrakis&style=flat-square&color=blue" alt=""/>
+
+---
+
+### :man technologist:
